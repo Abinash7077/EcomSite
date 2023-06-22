@@ -1,0 +1,23 @@
+.Login{
+    
+    height: 100vh;
+ 
+    
+
+}
+.form{
+   width: 30%!important;
+   margin-top: 25px!important;
+    height: 100vh;
+    margin: 0 auto;
+  
+}
+.form-group{
+    width: 90%;
+    margin: 25px auto;
+    color: white;
+}
+.form h1{
+    color: white;
+    padding-top: 25px;
+}

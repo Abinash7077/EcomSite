@@ -1,0 +1,52 @@
+.cart_card{
+    width: 60%!important;
+
+    border-radius: 5px;
+   margin: auto;
+    display: flex!important;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-left: 0;
+  
+
+}
+.cartImg{
+    width: 350px;
+    height: 150px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    margin: 0;padding: 0;
+    
+}
+.text1 .h1{
+    font-weight: 700;
+    color: white!important;
+    font-size: 20px;
+    color: blue;
+
+}
+.deleteIcon{
+    color: rgb(251, 5, 5);
+    font-size: 26px;
+    cursor: pointer;
+}
+.cartIcon{
+    color: rgb(5, 247, 251);
+    font-size: 26px;
+    cursor: pointer;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cartIcon:hover{
+ color: white;
+transition: 0.5s;
+font-weight: 900;
+  
+}
+.text1{
+    padding: 0
+    ;
+}.p{
+    color: #fff;
+}

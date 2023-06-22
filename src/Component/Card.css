@@ -1,0 +1,46 @@
+.card-img-top{
+    animation-name: cardImg;
+   transition-duration: 3s;
+   height
+   : 250px;
+}
+.card_box{
+   background-color: #fff;
+    color: white!important;
+    overflow: hidden;
+}
+.card-img-top:hover{
+    transform: rotateY(180deg);
+}.btn-primary{
+    background-color: blueviolet!important;
+    border: 3px solid white!important;
+    
+}
+.btn-primary:hover{
+    background-color: darkslateblue!important;
+}
+.card-title{
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+.card-text{
+    font-size: 14px;
+}
+.card_text{
+    padding-left: 20px!important
+    ;
+    font-family: sans-serif;
+    background-color: #40367b!important;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+.card_text:hover{
+    color: black;
+    font-family: sans-serif;
+    background-image: linear-gradient(to right top, #1e15b1, #0069f5, #009cef, #00c7b5, #12eb6e);
+    
+   
+}

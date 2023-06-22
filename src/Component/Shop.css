@@ -1,0 +1,49 @@
+.shop_search_input{
+    
+  width: 100%;
+  outline: none;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 2px solid gray;
+  
+  
+}
+.input{
+    width: 60%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 35px;
+    
+    
+    
+}
+.row{
+  background-color: black;
+  border-radius: 10px;
+  padding: 15px 25px;
+}
+.input:focus{
+  outline: 2px solid slateblue;
+}
+.Input_btn{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px;
+    background:#0d6efd;
+    color: white;
+    outline: none;
+    border: 2px solid gray;
+
+}
+.Input_btn:hover{
+  background-color: darkslategrey;
+  color: white;
+
+}
+.container{
+  
+  height: fit-content!important;
+  width: 100%!important;
+
+}
